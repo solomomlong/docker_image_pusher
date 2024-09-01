@@ -3,4 +3,5 @@ nginx
 ddsderek/xiaoyakeeper:latest
 xiaoyaliu/alist:hostmode
 #支持指定架构
-#--platform=windows/i386 xiaoyaliu/alist
+--platform=windows/i386 xiaoyaliu/alist
+--platform=windows/i386 ddsderek/xiaoyakeeper

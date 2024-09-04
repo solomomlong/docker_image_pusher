@@ -2,6 +2,7 @@ nginx
 #支持私库
 ddsderek/xiaoyakeeper:latest
 xiaoyaliu/alist:hostmode
+xhofe/alist:latest
 #支持指定架构
 --platform=windows/i386 xiaoyaliu/alist
 --platform=windows/i386 ddsderek/xiaoyakeeper
